@@ -1,10 +1,9 @@
 ### Area of Interest: 👋
 
 
-- 🔭 Computer Vision
-- 🌱 3D Reconstruction, SLAM 
+- 🔭 Computer Vision, 3D Reconstruction 
 - 👯 Compiler and Programming Languages
-- 🤔 Machine Learning
 - 💬 Competitive Programming
+- 🤔 Deeplearning, Graphics
 
 
