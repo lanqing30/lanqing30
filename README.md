@@ -5,6 +5,6 @@
 - 🌱 3D Reconstruction, SLAM 
 - 👯 Compiler and Programming Languages
 - 🤔 Machine Learning
-- 💬 LeetCode Solver
+- 💬 Competitive Programming
 
 
