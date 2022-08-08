@@ -1,3 +1,3 @@
 ### Hi there! 👋
 
-I am a Computer Vision (3D Vision) Software Engineer.
+I am a 3D Computer Vision Software Engineer.
